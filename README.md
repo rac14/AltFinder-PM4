@@ -1,6 +1,6 @@
 # AltFinder-PM4
 Are you tired cuz someone is ban evading your server?
-Try this plugins!!!!!!
+Try this plugin!!!!!!
 
 What does this plugin do?
 I also dont know(Joke)
