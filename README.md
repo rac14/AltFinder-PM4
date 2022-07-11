@@ -5,7 +5,7 @@ Try this plugin!!!!!!
 
 ## What does this plugin do?
 
-> This plugin saves players ips and if u banned someone and the banned player tries to join with different account he will be detected.
+> This plugin saves players ips, if you banned someone and the banned player tries to join with different account he will be detected.
 
 dont expect much detailed plugin description
 
